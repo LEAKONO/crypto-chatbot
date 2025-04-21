@@ -9,5 +9,5 @@ A simple cryptocurrency recommendation chatbot that helps users find suitable in
 
 ## How to Run
 ```bash
-python src/crypto_buddy.py
+python src/chatbot.py
 ```
